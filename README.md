@@ -34,6 +34,9 @@ This project takes a raw restaurant dataset through the full BI pipeline: import
 
 *(Adjust checkboxes to reflect your actual progress before publishing.)*
 
+<img width="959" height="493" alt="Screenshot 2026-09-01 143321" src="https://github.com/user-attachments/assets/736b08a9-eadd-45ef-b900-15af7fdcd17c" />
+
+
 ## Data Model
 
 The report follows a star-schema design for efficient filtering and aggregation:
